@@ -1,0 +1,147 @@
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.pdb
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\bin\Debug\ProductivityManager.exe
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\bin\Debug\ProductivityManager.pdb
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.exe
+E:\University\Semester materials\Spring 24-25\OOP2(C#)\FINAL(C#)\ProductivityManager\ProductivityManager\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Saidur - Gemini\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.0\ProductivityManager\obj\Debug\ProductivityManager.pdb
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\bin\Debug\ProductivityManager.exe
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\bin\Debug\ProductivityManager.pdb
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.exe
+C:\Users\user\Downloads\temp\ProductivityManager - Final.1.1\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.pdb
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\bin\Debug\ProductivityManager.exe
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\bin\Debug\ProductivityManager.pdb
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.exe
+C:\Users\shamv\Downloads\ProductivityManager - Final(con_size fixed)\ProductivityManager - Final\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\ProductivityManager - Final.2.3\ProductivityManager\obj\Debug\ProductivityManager.login.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.login.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.4\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.login.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\obj\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.5\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\bin\Debug\ProductivityManager.exe.config
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\bin\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\bin\Debug\ProductivityManager.pdb
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.csproj.AssemblyReference.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.Dashboard.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.login.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.Notes.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.Properties.Resources.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.Tasks.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.Timer.resources
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.csproj.GenerateResource.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.csproj.CoreCompileInputs.cache
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.exe
+D:\AIUB\6. Spring 2025\Final\OOP2\Project\ProductivityManager.0.3.6\ProductivityManager\obj\Debug\ProductivityManager.pdb
